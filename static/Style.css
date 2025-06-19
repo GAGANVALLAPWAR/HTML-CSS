@@ -1,16 +1,13 @@
 body{
-    font-family:Arial;
-    background-color: #329e42;
+    font-family:Arial, sans-serif;
+    background-color: #131111;
     text-align: center;
     padding-top: 100px;
 }
 .container{
-    background-color: rgb(155, 178, 139);
-    border-radius: 10px;
-    box-shadow: 4px,8px,rgba(0,0,0.2);
+    background-color: rgb(195, 230, 157);
+    border-radius: 100px;
+    box-shadow:0 4px 8px,rgb(0, 0, 0);
     display: inline-block;
     padding: 40px;
-    
-
-
 }
